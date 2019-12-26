@@ -180,5 +180,10 @@ Command Line Interface (명령형 인터페이스0
 - `mkdir`[폴더명]: 새로운 폴더를 생성(make directory)
 - `rm[파일명]`  파일을 삭제(remove)
 - `rm -r [폴더명]` 폴더를 삭제
-
 - `ls -a` 숨긴 파일 보기
+
+
+
+bit.do/01_TIL
+
+PDF 내용을 02_github_TIL.md라는 마크다운 파일로 옮겨서, 원격저장소에 업로드하기(push)
