@@ -73,11 +73,12 @@
 
 ` add 한 요소를 remote 저장소에 올리려면 $ git push origin master 를 터미널에 입력합니다.`
 
-```$ git add .
+```shell
 $ git add .
 $ git commit -m "first commit"
 $ git push origin master
 
+(shell)이라고 입력시 색 변경 가능
 ```
 
 ## 1. Image
